@@ -1,6 +1,7 @@
 # Recipe-and-Nutrition-Program
 Brief description:
-This program allows the user to work with up to 50 nutrition labels and recipes.
+This console-based program allows the user to work with up to 50 nutrition labels and recipes.
+
 Programmer notes:
 This was my final project for a computer sciece class, which heavily uses arrays. I completed the requirements,
 however, when the program deletes a label or recipe, I assign the first subscript of the selected recipe array a '#' for comparisons
